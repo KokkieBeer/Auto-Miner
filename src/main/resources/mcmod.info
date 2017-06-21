@@ -1,0 +1,16 @@
+[
+{
+  "modid": "am",
+  "name": "Auto Miner",
+  "description": "Adds various Blocks and Items to the game.",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Egietje"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

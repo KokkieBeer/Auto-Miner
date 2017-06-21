@@ -1,0 +1,7 @@
+item.steel_ingot.name=Steel Ingot
+item.wrench.name=Wrench
+
+tile.steel_block.name=Steel Block
+tile.auto_miner.name=Auto Miner
+
+itemGroup.am_tab=Auto Miner

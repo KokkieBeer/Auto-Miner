@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "activated=false,facing=north": { "model": "am:auto_miner" },
+        "activated=false,facing=south": { "model": "am:auto_miner", "y": 180 },
+        "activated=false,facing=west":  { "model": "am:auto_miner", "y": 270 },
+        "activated=false,facing=east":  { "model": "am:auto_miner", "y": 90 },
+		"activated=true,facing=north": { "model": "am:powered_auto_miner" },
+        "activated=true,facing=south": { "model": "am:powered_auto_miner", "y": 180 },
+        "activated=true,facing=west":  { "model": "am:powered_auto_miner", "y": 270 },
+        "activated=true,facing=east":  { "model": "am:powered_auto_miner", "y": 90 }
+    }
+}

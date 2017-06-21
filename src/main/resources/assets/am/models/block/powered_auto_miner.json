@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "am:blocks/auto_miner_side",
+        "up": "am:blocks/auto_miner_top",
+        "north": "am:blocks/powered_auto_miner_front",
+        "east": "am:blocks/auto_miner_side",
+        "south": "am:blocks/powered_auto_miner_back",
+        "west": "am:blocks/auto_miner_side",
+		"down": "am:blocks/powered_auto_miner_bottom"
+    }
+}
