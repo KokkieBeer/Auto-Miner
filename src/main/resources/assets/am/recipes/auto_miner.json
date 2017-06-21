@@ -1,0 +1,19 @@
+{
+  "result": {
+    "block": "am:auto_miner"
+  },
+  "pattern": [
+    "sss",
+    "sps",
+    "sss"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "s": {
+      "item": "am:steel_ingot"
+    },
+	"p": {
+		"item": "minecraft:iron_pickaxe"
+	}
+  }
+}

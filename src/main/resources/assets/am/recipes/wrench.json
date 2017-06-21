@@ -1,0 +1,16 @@
+{
+  "result": {
+    "item": "am:wrench"
+  },
+  "pattern": [
+    "s s",
+    "sss",
+    " s "
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "s": {
+      "item": "am:steel_ingot"
+    }
+  }
+}

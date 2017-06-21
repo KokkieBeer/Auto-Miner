@@ -1,0 +1,16 @@
+{
+  "result": {
+    "block": "am:steel_block"
+  },
+  "pattern": [
+    "sss",
+    "sss",
+    "sss"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "s": {
+      "item": "am:steel_ingot"
+    }
+  }
+}
