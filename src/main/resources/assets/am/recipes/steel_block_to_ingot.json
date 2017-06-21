@@ -1,15 +1,15 @@
 {
-  "result": {
-    "item": "am:steel_ingot",
-	"count": 9
-  },
-  "pattern": [
-    "s"
-  ],
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "s": {
-      "block": "am:steel_block"
-    }
-  }
+	"result": {
+		"item": "am:steel_ingot",
+		"count": 9
+	},
+	"pattern": [
+		"s"
+	],
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"s": {
+			"item": "am:steel_block"
+		}
+	}
 }
